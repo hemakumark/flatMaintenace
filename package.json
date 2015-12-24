@@ -1,0 +1,18 @@
+{
+  "name": "maintenance",
+  "version": "1.0.0",
+  "description": "API to update expense, mainteance.",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "author": "Hemakumar Kakaraparti <hemakumar.k@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.3.2",
+    "url-pattern": "^1.0.0"
+  }
+}
